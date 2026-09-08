@@ -2,8 +2,8 @@
 
 <div align="center">
 
-  <!-- Cyberpunk Header Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:00f5d4&height=180&section=header&text=Yashdeep Chaurasia&fontSize=50&fontColor=00f5d4&fontAlignY=40" width="100%" alt="Yash40222 Header Banner"/>
+  <!-- Arch Dome Header Banner -->
+  <img src="https://capsule-render.vercel.app/api?type=slice&color=0:0d1117,100:00f5d4&height=220&section=header&text=Yashdeep%20Chaurasia&fontSize=42&fontColor=ffffff&desc=CYBERSECURITY%20%7C%20MACHINE%20LEARNING%20%7C%20WEB%20DEVELOPER&descAlignY=62&descSize=15" width="100%" alt="Yashdeep Chaurasia Header Banner"/>
 
   <br/>
 
