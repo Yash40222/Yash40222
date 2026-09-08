@@ -3,7 +3,7 @@
 <div align="center">
 
   <!-- Cyberpunk Header Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:00f5d4&height=180&section=header&text=Yash40222&fontSize=50&fontColor=00f5d4&fontAlignY=40" width="100%" alt="Yash40222 Header Banner"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:00f5d4&height=180&section=header&text=Yashdeep Chaurasia&fontSize=50&fontColor=00f5d4&fontAlignY=40" width="100%" alt="Yash40222 Header Banner"/>
 
   <br/>
 
