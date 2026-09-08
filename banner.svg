@@ -1,0 +1,79 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 320" width="100%" height="100%">
+  <defs>
+    <!-- Background Dark Purple Gradient -->
+    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#1A032A" />
+      <stop offset="50%" stop-color="#3B0754" />
+      <stop offset="100%" stop-color="#1A032A" />
+    </linearGradient>
+
+    <!-- Dome Arc Radial Gradient -->
+    <radialGradient id="domeGrad" cx="50%" cy="100%" r="75%">
+      <stop offset="0%" stop-color="#D946EF" stop-opacity="0.95" />
+      <stop offset="40%" stop-color="#A855F7" stop-opacity="0.75" />
+      <stop offset="75%" stop-color="#581C87" stop-opacity="0.4" />
+      <stop offset="100%" stop-color="#1A032A" stop-opacity="0" />
+    </radialGradient>
+  </defs>
+
+  <!-- Base Outer Background -->
+  <rect width="1200" height="320" fill="url(#bgGrad)" rx="8" />
+
+  <!-- Dome Arch Path (Matching Screenshot) -->
+  <path d="M 120 320 A 480 310 0 0 1 1080 320 Z" fill="url(#domeGrad)" />
+
+  <!-- Top Center Cool Octocat Circle Badge -->
+  <g transform="translate(600, 95)">
+    <circle cx="0" cy="0" r="44" fill="#1A032A" stroke="#E879F9" stroke-width="3" />
+    <circle cx="0" cy="0" r="39" fill="#0F172A" />
+    
+    <!-- Octocat Face Contour -->
+    <path d="M-18,12 C-18,3 -12,-9 0,-9 C12,-9 18,3 18,12 C18,18 13,22 0,22 C-13,22 -18,18 -18,12 Z" fill="#FFFFFF" />
+    <!-- Octocat Ears -->
+    <path d="M-15,-6 L-22,-20 L-8,-12 Z M15,-6 L22,-20 L8,-12 Z" fill="#FFFFFF" />
+    <!-- Sunglasses Frame -->
+    <path d="M-15,-3 L-2,-3 L-4,5 L-13,5 Z M2,-3 L15,-3 L13,5 L4,5 Z M-2,-2 L2,-2 L2,1 L-2,1 Z" fill="#000000" />
+    <!-- Sunglasses Glare Details -->
+    <line x1="-12" y1="-1" x2="-6" y2="4" stroke="#FFFFFF" stroke-width="1.5" stroke-linecap="round" />
+    <line x1="5" y1="-1" x2="11" y2="4" stroke="#FFFFFF" stroke-width="1.5" stroke-linecap="round" />
+  </g>
+
+  <!-- Main Title Text -->
+  <text x="600" y="182" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-weight="900" font-size="46" fill="#FFFFFF" letter-spacing="4">YASHDEEP CHAURASIA</text>
+
+  <!-- Subtitle Text -->
+  <text x="600" y="214" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-weight="700" font-size="13" fill="#F472B6" letter-spacing="3">CYBERSECURITY  |  MACHINE LEARNING  |  WEB DEVELOPER</text>
+
+  <!-- Left Info Block: Target/Globe Icon + Website -->
+  <g transform="translate(60, 160)">
+    <circle cx="20" cy="10" r="10" fill="none" stroke="#F472B6" stroke-width="2" />
+    <circle cx="20" cy="10" r="4" fill="none" stroke="#F472B6" stroke-width="1.5" />
+    <line x1="20" y1="0" x2="20" y2="20" stroke="#F472B6" stroke-width="1.5" />
+    <line x1="10" y1="10" x2="30" y2="10" stroke="#F472B6" stroke-width="1.5" />
+
+    <text x="42" y="15" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="14" font-weight="600" fill="#E9D5FF">https://github.com/Yash40222</text>
+  </g>
+
+  <!-- Left Decorative Parallelogram Stripes (///) -->
+  <g transform="translate(85, 202)">
+    <polygon points="0,32 25,0 70,0 45,32" fill="none" stroke="#C084FC" stroke-width="2" opacity="0.85" />
+    <polygon points="55,32 80,0 125,0 100,32" fill="none" stroke="#C084FC" stroke-width="2" opacity="0.85" />
+    <polygon points="110,32 135,0 180,0 155,32" fill="none" stroke="#C084FC" stroke-width="2" opacity="0.85" />
+  </g>
+
+  <!-- Right Info Block: Mail Icon + Email Address -->
+  <g transform="translate(860, 160)">
+    <circle cx="20" cy="10" r="11" fill="none" stroke="#F472B6" stroke-width="2" />
+    <rect x="13" y="5" width="14" height="10" rx="1" fill="none" stroke="#F472B6" stroke-width="1.5" />
+    <path d="M13,6 L20,11 L27,6" fill="none" stroke="#F472B6" stroke-width="1.5" />
+
+    <text x="42" y="15" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="14" font-weight="600" fill="#E9D5FF">your-email@example.com</text>
+  </g>
+
+  <!-- Right Decorative Parallelogram Stripes (///) -->
+  <g transform="translate(915, 202)">
+    <polygon points="0,32 25,0 70,0 45,32" fill="none" stroke="#C084FC" stroke-width="2" opacity="0.85" />
+    <polygon points="55,32 80,0 125,0 100,32" fill="none" stroke="#C084FC" stroke-width="2" opacity="0.85" />
+    <polygon points="110,32 135,0 180,0 155,32" fill="none" stroke="#C084FC" stroke-width="2" opacity="0.85" />
+  </g>
+</svg>
