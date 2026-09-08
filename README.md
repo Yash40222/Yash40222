@@ -2,8 +2,8 @@
 
 <div align="center">
 
-  <!-- Cyberpunk Glowing Header Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,40:0f2027,80:203a43,100:00f5d4&height=220&section=header&text=Yash40222&fontSize=48&fontColor=00f5d4&animation=fadeIn&fontAlignY=36" width="100%" alt="Header Banner"/>
+  <!-- Futuristic Cyber Header Banner -->
+  <img src="https://capsule-render.vercel.app/api?type=cyber&color=0:0d1117,50:0f2027,100:00f5d4&height=220&section=header&text=Yash40222&fontSize=52&fontColor=00f5d4&stroke=00f5d4&animation=twinkle&fontAlignY=38" width="100%" alt="Header Banner"/>
 
   <br/>
 
@@ -16,7 +16,7 @@
 
   <!-- Cyber Terminal Typing Subtitle -->
   <a href="https://github.com/Yash40222">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00F5D4&center=true&vCenter=true&width=700&lines=%E2%9A%A1+Cybersecurity+%7C+Digital+Forensics+%7C+Machine+Learning;%F0%9F%94%92+Threat+Detection+%26+Network+Security;%F0%9F%A9B5+Anomaly+Detection+%26+ML+Security" alt="Typing Animation" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00F5D4&center=true&vCenter=true&width=750&lines=%E2%9A%A1+Cybersecurity+%7C+Machine+Learning+%7C+Web+Developer;%F0%9F%94%92+Threat+Detection+%26+Network+Security;%F0%9F%92%BB+Full+Stack+Security+%26+Development" alt="Typing Animation" />
   </a>
 
   <br/><br/>
@@ -46,17 +46,17 @@
 ```syslog
 ================================================================================
 [ SYSTEM IDENT ] :: Yash40222
-[ DOMAIN FOCUS ] :: Cybersecurity | Digital Forensics | Machine Learning
-[ CORE MOTTO   ] :: Inspecting Traffic, Analyzing Artifacts & Training ML Models
+[ DOMAIN FOCUS ] :: Cybersecurity | Machine Learning | Web Developer
+[ CORE MOTTO   ] :: Securing Networks, Training ML Models & Building Web Apps
 [ SEC STATUS   ] :: ACTIVE_DEFENSE_MODE // THREAT_HUNTING_ENABLED
 ================================================================================
 ```
 
-Welcome! I specialize in **Cybersecurity**, **Digital Forensics**, and **Machine Learning**. I combine data science with security protocols to build automated threat detection models, analyze forensic evidence, and safeguard network infrastructures.
+Welcome! I specialize in **Cybersecurity**, **Machine Learning**, and **Web Development**. I combine security principles, data science, and modern web development to build secure applications and intelligent threat detection systems.
 
-- 🔍 **Digital Forensics & Incident Response** – Traffic capture analysis, system log forensic investigations, and artifact timelines.
-- ⚡ **Network Security & Anomaly Detection** – Protocol monitoring, vulnerability identification, and packet analysis.
-- 🤖 **Machine Learning for Security** – Feature engineering and classification models to flag malicious anomalies.
+- 🔍 **Cybersecurity & Digital Forensics** – Incident response, traffic analysis, and network protocol inspection.
+- 🤖 **Machine Learning** – Predictive modeling, anomaly detection algorithms, and data analysis.
+- 🌐 **Web Development** – Building full-stack web applications with modern styling and robust security practices.
 
 ---
 
@@ -64,11 +64,11 @@ Welcome! I specialize in **Cybersecurity**, **Digital Forensics**, and **Machine
 
 - 📡 **Deep Packet Inspection** – Extracting network flow features for ML classifiers.
 - 🕵️ **Log & Artifact Forensics** – Parsing system events to identify attack vectors.
-- 🧠 **Supervised Security ML** – Training XGBoost and Scikit-Learn models on intrusion detection datasets.
+- 🧠 **Supervised Security ML** – Training XGBoost and Scikit-Learn models on security datasets.
 
 ---
 
-### 💻 Cybersecurity Arsenal & Tech Stack
+### 💻 Tech Stack & Arsenal
 
 #### 🌐 Programming Languages
 <p align="left">
@@ -105,35 +105,6 @@ Welcome! I specialize in **Cybersecurity**, **Digital Forensics**, and **Machine
   <img src="https://img.shields.io/badge/MySQL-0d1117?style=for-the-badge&logo=mysql&logoColor=4479A1" alt="MySQL" />
   <img src="https://img.shields.io/badge/VS_Code-0d1117?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC" alt="VS Code" />
 </p>
-
----
-
-### 📁 Featured Security Projects
-
-<table width="100%">
-  <tr>
-    <td width="50%" valign="top">
-      <h4>🔒 Network Anomaly Detection System</h4>
-      <p>A machine learning framework designed to analyze packet capture features and classify malicious intrusion attempts in real time.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python&logoColor=3776AB" alt="Python" />
-        <img src="https://img.shields.io/badge/Scikit_Learn-0d1117?style=flat-square&logo=scikit-learn&logoColor=F7931E" alt="Scikit-Learn" />
-        <img src="https://img.shields.io/badge/Wireshark-0d1117?style=flat-square&logo=wireshark&logoColor=1679A7" alt="Wireshark" />
-      </p>
-      <a href="https://github.com/Yash40222">View Repository →</a>
-    </td>
-    <td width="50%" valign="top">
-      <h4>🕵️ Digital Forensics Artifact Analyzer</h4>
-      <p>Automated log parser and analysis tool designed to extract timeline artifacts, security events, and forensic indicators during investigations.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python&logoColor=3776AB" alt="Python" />
-        <img src="https://img.shields.io/badge/Pandas-0d1117?style=flat-square&logo=pandas&logoColor=150458" alt="Pandas" />
-        <img src="https://img.shields.io/badge/MySQL-0d1117?style=flat-square&logo=mysql&logoColor=4479A1" alt="MySQL" />
-      </p>
-      <a href="https://github.com/Yash40222">View Repository →</a>
-    </td>
-  </tr>
-</table>
 
 ---
 
