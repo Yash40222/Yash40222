@@ -2,8 +2,8 @@
 
 <div align="center">
 
-  <!-- Futuristic Cyber Header Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=cyber&color=0:0d1117,50:0f2027,100:00f5d4&height=220&section=header&text=Yash40222&fontSize=52&fontColor=00f5d4&stroke=00f5d4&animation=twinkle&fontAlignY=38" width="100%" alt="Header Banner"/>
+  <!-- Cyberpunk Header Banner -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:00f5d4&height=180&section=header&text=Yash40222&fontSize=50&fontColor=00f5d4&fontAlignY=40" width="100%" alt="Yash40222 Header Banner"/>
 
   <br/>
 
