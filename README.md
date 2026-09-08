@@ -16,7 +16,7 @@
 
   <!-- Cyber Terminal Typing Subtitle -->
   <a href="https://github.com/Yash40222">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=F472B6&center=true&vCenter=true&width=750&lines=%E2%9A%A1+Cybersecurity+%7C+Machine+Learning+%7C+Web+Developer;%F0%9F%94%92+Threat+Detection+%26+Network+Security;%F0%9F%92%BB+Full+Stack+Security+%26+Development" alt="Typing Animation" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=F472B6&center=true&vCenter=true&width=750&lines=Cybersecurity+%7C+Machine+Learning+%7C+Web+Developer" alt="Typing Animation" />
   </a>
 
   <br/><br/>
@@ -31,9 +31,6 @@
     </a>
     <a href="https://linkedin.com/in/YOUR_LINKEDIN">
       <img src="https://img.shields.io/badge/LinkedIn-Profile-0d1117?style=for-the-badge&logo=linkedin&logoColor=00f5d4" alt="LinkedIn" />
-    </a>
-    <a href="https://tryhackme.com/p/YOUR_THM">
-      <img src="https://img.shields.io/badge/TryHackMe-Profile-0d1117?style=for-the-badge&logo=tryhackme&logoColor=00f5d4" alt="TryHackMe" />
     </a>
   </p>
 
