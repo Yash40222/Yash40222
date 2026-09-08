@@ -2,21 +2,21 @@
 
 <div align="center">
 
-  <!-- Custom Arch Banner (Matching Screenshot) -->
-  <img src="./banner.svg" width="100%" alt="Yashdeep Chaurasia Banner" />
+  <!-- Custom Arch Banner (Hello World) -->
+  <img src="./banner.svg" width="100%" alt="Hello World Banner" />
 
-  <br/>
+  <br/><br/>
 
   <!-- Centered Avatar -->
   <a href="https://github.com/Yash40222">
-    <img src="https://github.com/Yash40222.png" width="140" height="140" alt="Yash40222 Avatar" />
+    <img src="https://github.com/Yash40222.png" width="190" height="190" alt="Yash40222 Avatar" />
   </a>
 
   <br/><br/>
 
   <!-- Cyber Terminal Typing Subtitle -->
   <a href="https://github.com/Yash40222">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00F5D4&center=true&vCenter=true&width=750&lines=%E2%9A%A1+Cybersecurity+%7C+Machine+Learning+%7C+Web+Developer;%F0%9F%94%92+Threat+Detection+%26+Network+Security;%F0%9F%92%BB+Full+Stack+Security+%26+Development" alt="Typing Animation" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=F472B6&center=true&vCenter=true&width=750&lines=%E2%9A%A1+Cybersecurity+%7C+Machine+Learning+%7C+Web+Developer;%F0%9F%94%92+Threat+Detection+%26+Network+Security;%F0%9F%92%BB+Full+Stack+Security+%26+Development" alt="Typing Animation" />
   </a>
 
   <br/><br/>
